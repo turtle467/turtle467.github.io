@@ -18,4 +18,4 @@
 本アプリは、ユーザー情報を第三者へ提供しません。
 
 ## 5. お問い合わせ
-- メール: yourmail@example.com
+- メール: turtle467developer@gmail.com
